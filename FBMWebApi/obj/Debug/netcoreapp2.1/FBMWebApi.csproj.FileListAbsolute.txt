@@ -1,0 +1,14 @@
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\FBMWebApi\bin\Debug\netcoreapp2.1\FBMWebApi.deps.json
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\FBMWebApi\bin\Debug\netcoreapp2.1\FBMWebApi.runtimeconfig.json
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\FBMWebApi\bin\Debug\netcoreapp2.1\FBMWebApi.runtimeconfig.dev.json
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\FBMWebApi\bin\Debug\netcoreapp2.1\FBMWebApi.dll
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\FBMWebApi\bin\Debug\netcoreapp2.1\FBMWebApi.pdb
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\FBMWebApi\obj\Debug\netcoreapp2.1\FBMWebApi.csprojAssemblyReference.cache
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\FBMWebApi\obj\Debug\netcoreapp2.1\FBMWebApi.csproj.CoreCompileInputs.cache
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\FBMWebApi\obj\Debug\netcoreapp2.1\FBMWebApi.RazorAssemblyInfo.cache
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\FBMWebApi\obj\Debug\netcoreapp2.1\FBMWebApi.RazorAssemblyInfo.cs
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\FBMWebApi\obj\Debug\netcoreapp2.1\FBMWebApi.AssemblyInfoInputs.cache
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\FBMWebApi\obj\Debug\netcoreapp2.1\FBMWebApi.AssemblyInfo.cs
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\FBMWebApi\obj\Debug\netcoreapp2.1\FBMWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\FBMWebApi\obj\Debug\netcoreapp2.1\FBMWebApi.dll
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\FBMWebApi\obj\Debug\netcoreapp2.1\FBMWebApi.pdb

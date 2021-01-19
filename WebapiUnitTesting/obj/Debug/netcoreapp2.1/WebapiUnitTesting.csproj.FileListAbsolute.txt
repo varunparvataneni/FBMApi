@@ -1,0 +1,17 @@
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\WebapiUnitTesting\obj\Debug\netcoreapp2.1\WebapiUnitTesting.csprojAssemblyReference.cache
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\WebapiUnitTesting\obj\Debug\netcoreapp2.1\WebapiUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\WebapiUnitTesting\obj\Debug\netcoreapp2.1\WebapiUnitTesting.AssemblyInfoInputs.cache
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\WebapiUnitTesting\obj\Debug\netcoreapp2.1\WebapiUnitTesting.AssemblyInfo.cs
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\WebapiUnitTesting\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\WebapiUnitTesting\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\WebapiUnitTesting\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\WebapiUnitTesting\bin\Debug\netcoreapp2.1\WebapiUnitTesting.deps.json
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\WebapiUnitTesting\bin\Debug\netcoreapp2.1\WebapiUnitTesting.runtimeconfig.json
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\WebapiUnitTesting\bin\Debug\netcoreapp2.1\WebapiUnitTesting.runtimeconfig.dev.json
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\WebapiUnitTesting\bin\Debug\netcoreapp2.1\WebapiUnitTesting.dll
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\WebapiUnitTesting\bin\Debug\netcoreapp2.1\WebapiUnitTesting.pdb
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\WebapiUnitTesting\bin\Debug\netcoreapp2.1\FBMWebApi.dll
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\WebapiUnitTesting\bin\Debug\netcoreapp2.1\FBMWebApi.pdb
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\WebapiUnitTesting\obj\Debug\netcoreapp2.1\WebapiUnitTesting.csproj.CopyComplete
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\WebapiUnitTesting\obj\Debug\netcoreapp2.1\WebapiUnitTesting.dll
+C:\Users\varun.parvataneni\source\repos\FBMWebApi\WebapiUnitTesting\obj\Debug\netcoreapp2.1\WebapiUnitTesting.pdb
